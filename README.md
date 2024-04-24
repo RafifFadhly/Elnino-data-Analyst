@@ -1,5 +1,5 @@
 # El nino Project Data Analyst
 
-Salah Satu Proyek Data Analyst saya dengan Sample data El Nino. Project ini dibuat dengan bahasa Phyton.
+Salah Satu Proyek Data Analyst saya dengan Sample data El Nino. Project ini dibuat dengan bahasa Phyton dan Aplikasi Google Collab.
 
 ![Screenshot](gambar/Screenshot_2024-04-24_121121.png)
